@@ -1,5 +1,5 @@
 # ATMTL
-The ATMTL is for our submitted paper: Efficient -task learing with adaptive temporal structure.
+ATMTL is for our submitted paper: Efficient -task learing with adaptive temporal structure.
 
 # Dependencies
 ATMTL requires the following toolbox  
